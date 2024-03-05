@@ -2,21 +2,19 @@
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## Opening Soon
 
 Here's a clickable link: https://chat.openai.com/
 
-## Images
+## Image
 
 ![Screenshot 2024-03-05 123316](https://github.com/14dstcyr/cintel-01-pages/assets/156037147/1ed1ef58-1549-485b-9f3d-4871ad6ac4ff)
 
 
-## Reminders
+## Activities
 
-Use a dash space for unordered lists
+- Trail Rides
 
-- Spaces matter
+- Lessons
 
-- Spelling matters
-
-- Capitalization matters
+- Fun Shows
